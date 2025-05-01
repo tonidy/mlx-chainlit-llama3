@@ -3,7 +3,7 @@ name = "mlx-chainlit-llama3"
 version = "0.1.0"
 description = "MLX Server Chainlit Demo"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = [
     "chainlit>=2.5.5",
     "openai>=1.76.2",
