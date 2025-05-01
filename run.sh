@@ -1,1 +1,1 @@
-chainlit run app.py
+uv run chainlit run app.py

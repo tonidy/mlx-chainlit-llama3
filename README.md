@@ -2,12 +2,16 @@
 
 ![MLX Server Chainlit Demo](mlx-chainlit.gif)
 
+## Requirements
+
+Install uv
+
+https://docs.astral.sh/uv/getting-started/installation
+
 ## Installation
 
 ```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+uv sync
 ```
 
 ## Running Server

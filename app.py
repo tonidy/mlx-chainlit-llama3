@@ -5,7 +5,7 @@ client = AsyncOpenAI(base_url="http://localhost:8080/v1", api_key="fake-key")
 cl.instrument_openai()
 
 settings = {
-    "model": "mlx-community/Meta-Llama-3.1-8B-Instruct-4bit",
+    "model": "mlx-community/Llama-3.2-3B-Instruct-4bit",
     "temperature": 0.7,
     "max_tokens": 500,
     "top_p": 1,
