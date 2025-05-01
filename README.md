@@ -17,7 +17,7 @@ uv sync
 ## Running Server
 
 ```bash
-uv run -m mlx_lm server --model mlx-community/Meta-Llama-3.1-8B-Instruct-4bit --log-level DEBUG
+uv run -m mlx_lm server --model mlx-community/Llama-3.2-3B-Instruct-4bit --log-level DEBUG
 ```
 
 This will start the MLX server and will download the LLM if it is not already downloaded from Hugging Face.
